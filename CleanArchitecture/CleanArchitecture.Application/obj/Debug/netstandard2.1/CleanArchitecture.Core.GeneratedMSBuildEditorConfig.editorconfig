@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CleanArchitecture.Core
+build_property.ProjectDir = C:\Users\mesen\Desktop\Restaurant-Rating\backend\Restaurant-Rating-Backend\CleanArchitecture\CleanArchitecture.Application\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

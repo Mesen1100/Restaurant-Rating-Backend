@@ -1,0 +1,11 @@
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\bin\Release\netstandard2.1\CleanArchitecture.Core.deps.json
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\bin\Release\netstandard2.1\CleanArchitecture.Core.dll
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\bin\Release\netstandard2.1\CleanArchitecture.Core.pdb
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\obj\Release\netstandard2.1\CleanArchitecture.Core.csproj.AssemblyReference.cache
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\obj\Release\netstandard2.1\CleanArchitecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\obj\Release\netstandard2.1\CleanArchitecture.Core.AssemblyInfoInputs.cache
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\obj\Release\netstandard2.1\CleanArchitecture.Core.AssemblyInfo.cs
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\obj\Release\netstandard2.1\CleanArchitecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\obj\Release\netstandard2.1\CleanArchitecture.Core.sourcelink.json
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\obj\Release\netstandard2.1\CleanArchitecture.Core.dll
+C:\Users\mesen\Desktop\Restaurant-Rating\backend\CleanArchitecture\CleanArchitecture.Application\obj\Release\netstandard2.1\CleanArchitecture.Core.pdb
